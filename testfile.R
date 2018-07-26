@@ -25,8 +25,6 @@
 
 # ich bin Zeile 20
 
-# ich bin Zeile 21
-
 # ich bin Zeile 22
 
 # ich bin Zeile 23
